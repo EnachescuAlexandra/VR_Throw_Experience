@@ -3,6 +3,29 @@
 
 Experiență VR realizată în Unity, în care utilizatorul poate apuca și arunca un cuțit către o țintă, obținând puncte în funcție de distanța față de centrul acesteia.
 
+###Update – Lab 3: Blender Hand Model & Animations
+
+Ce a fost realizat conform cerintei:
+
+-Modelarea în Blender a unei mâini 3D cu 5 degete.
+-Realizarea UV Unwrap și aplicarea unei texturi.
+-Exportarea modelului în format FBX și importarea în Unity.
+-Atașarea modelului la controllerele VR pentru ambele mâini (stânga și dreapta, prin oglindire pe axa X).
+
+Bonus – Animații
+
+-Crearea unui schelet și a două animații în Blender:
+
+-Grab: îndoirea degetelor mijlociu, inelar și mic.
+
+-Trigger: îndoirea arătătorului.
+
+-Importarea animațiilor în Unity și asocierea mișcărilor cu acțiunile Grip/Select și Trigger/Activate ale controllerelor VR.
+
+-Testarea ambelor mâini cu XR Device Simulator.
+
+Demo Lab 3: hands_lab3_demo.mp4
+
 ### 1. Implementat (vizibil în video atat pe XR simulator cat si pe Meta Quest)
 - Configurarea **OpenXR + XR Interaction Toolkit**.
 - Utilizarea **XR Device Simulator** pentru testare fără headset (a se vedea XRDevice_demo.mp4).
