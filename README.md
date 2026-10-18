@@ -3,7 +3,7 @@
 
 Experiență VR realizată în Unity, în care utilizatorul poate apuca și arunca un cuțit către o țintă, obținând puncte în funcție de distanța față de centrul acesteia.
 
-###Update – Lab 3: Blender Hand Model & Animations
+Update – Lab 3: Blender Hand Model & Animations
 
 Ce a fost realizat conform cerintei:
 
